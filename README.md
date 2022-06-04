@@ -1,4 +1,4 @@
-### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50" height="50"> Welcome to my profile :octocat:
 
 <!--
 **tungnguyenvan/tungnguyenvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
